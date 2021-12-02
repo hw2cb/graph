@@ -1,0 +1,16 @@
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\Graph.exe
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\Graph.deps.json
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.json
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.dev.json
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\Graph.dll
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\ref\Graph.dll
+C:\Users\dim5d\source\repos\Graph\Graph\bin\Debug\net5.0\Graph.pdb
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.csproj.AssemblyReference.cache
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfoInputs.cache
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfo.cs
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.dll
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\ref\Graph.dll
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.pdb
+C:\Users\dim5d\source\repos\Graph\Graph\obj\Debug\net5.0\Graph.genruntimeconfig.cache
